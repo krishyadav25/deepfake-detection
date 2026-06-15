@@ -149,3 +149,15 @@ deepfake-detection/
    Manipulated Facial Images," ICCV, 2019.
 3. B. Dolhansky et al., "The DeepFake Detection Challenge 
    Dataset," arXiv:2006.07397, 2020.
+
+## Intellectual Property Notice
+
+A copyright application and patent application related to this project
+have been filed and are currently pending.
+
+The contents of this repository are provided for academic review and
+portfolio demonstration purposes only. Unauthorized reproduction,
+modification, distribution, or commercial use is prohibited without
+prior written permission from the authors.
+
+© 2026 Krish Yadav, Pranjal Seluriyal, Isha. All Rights Reserved.
