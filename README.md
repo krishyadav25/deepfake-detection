@@ -95,7 +95,7 @@ and acquisition traces.
 ### Local Installation
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/krishyadav25/deepfake-detection.git
 cd deepfake-detection
 pip install -r requirements.txt
 ```
