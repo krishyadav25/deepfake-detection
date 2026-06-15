@@ -115,12 +115,6 @@ predict_my_image("path/to/image.jpg", threshold=0.50)
 
 ---
 
-## 📊 Confusion Matrix
-
-![Confusion Matrix](assets/confusion_matrix.png)
-
----
-
 ## 📊 Evaluation Plots
 
 ![Evaluation](assets/evaluation_plots.png)
